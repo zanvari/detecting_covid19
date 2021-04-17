@@ -5,4 +5,3 @@ Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahma
 Network: ResNet18
 Accuracy: 0.9889
 
-![Predictions](./fig/predictions.png)
