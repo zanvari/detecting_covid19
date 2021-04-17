@@ -42,4 +42,4 @@ This tutorial depends on the following libraries:
 
 Use the trained model to do classification on test images.
 
-![alt text](https://github.com/zanvari/detecting_covid19/figs/result.png?raw=true)
+![alt text](https://github.com/zanvari/detecting_covid19/blob/main/figs/result.png)
