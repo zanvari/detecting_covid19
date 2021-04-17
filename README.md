@@ -29,6 +29,10 @@ The optimizer is Adam.
 This tutorial depends on the following libraries:
 
 * Pytorch
+*  torchvision
+*  numpy
+*  PIL
+*  matplotlib
 
 
 ### Follow the notebook to run the code
