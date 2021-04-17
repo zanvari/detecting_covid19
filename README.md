@@ -1,24 +1,18 @@
-# Implementation of COVID19 with Chest X-Ray detection using Pytorch
+# Detecting COVID-19 with Chest X Ray using PyTorch¶
+
 
 The network architecture is ResNet18.
 
----
 
-## Overview
-
-### Data
+### Dataset
 
 Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) on Kaggle
 
 ### Training
 
-The model is trained for 1 epoch.
+The model is trained for 1 epoch.After even 1 epochs, calculated accuracy is about **0.989**.
 
-After even 1 epochs, calculated accuracy is about 0.989.
-
-Loss function for the training is basically just a binary crossentropy.
-
-The optimizer is Adam.
+Loss function for the training is basically just a binary crossentropy. The optimizer is Adam.
 
 ---
 
