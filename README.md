@@ -1,9 +1,4 @@
-# Covid19 Detection with Chest X-Ray in Pytorch
-
-Network: ResNet18
-
-
-# Implementation of COVID19 detection using Pytorch
+# Implementation of COVID19 with Chest X-Ray detection using Pytorch
 
 The network architecture is ResNet18.
 
@@ -43,4 +38,4 @@ This tutorial depends on the following libraries:
 
 Use the trained model to do classification on test images.
 
-![fig/predictions.png](fig/predictions.png)
+![fig/result_samples.png](fig/result_samples.png)
