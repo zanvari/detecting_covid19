@@ -10,7 +10,7 @@ Dataset from [COVID-19 Radiography Dataset](https://www.kaggle.com/tawsifurrahma
 
 ### Training
 
-The model is trained for 1 epoch.After even 1 epochs, calculated accuracy is about **0.989**.
+The model is trained for 1 epoch. After even 1 epochs, calculated accuracy is about **0.989**.
 
 Loss function for the training is basically just a binary crossentropy. The optimizer is Adam.
 
@@ -22,15 +22,13 @@ Loss function for the training is basically just a binary crossentropy. The opti
 
 This tutorial depends on the following libraries:
 
-* Pytorch
+*  Pytorch
 *  torchvision
 *  numpy
 *  PIL
 *  matplotlib
 
-
-### Follow the notebook to run the code
-
+Follow the notebook to run the code.
 
 ### Results
 
